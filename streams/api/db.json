@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "hey",
+      "description": "you",
+      "id": 1
+    },
+    {
+      "description": "now",
+      "title": "other stream",
+      "id": 2
+    },
+    {
+      "title": "s",
+      "description": "s",
+      "id": 3
+    },
+    {
+      "title": "title",
+      "description": "this is a stream",
+      "id": 4
+    },
+    {
+      "title": "I created this stream",
+      "description": "I want see userID",
+      "id": 5
+    },
+    {
+      "title": "I WANT USUERID",
+      "description": "CADE USERID",
+      "id": 6
+    },
+    {
+      "title": "agora vai",
+      "description": "cade o id",
+      "userId": "106025067246533692211",
+      "id": 7
+    }
+  ]
+}
